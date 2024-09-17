@@ -5,9 +5,13 @@
 ## Team Memebers
 
 MOHAMED KHAIRY MOHAMED ABDELRAOUF 
+
 LIM CHUN CHEAK 
+
 WONG ZHENG QIE 
+
 SAI NAING LYNN OO
+
 
 ## 🌟 Overview
 This project implements various clustering algorithms to segment bank customers based on their purchasing behavior. By leveraging RFM (Recency, Frequency, Monetary) combined with customer balance data, this system enables targeted marketing strategies to enhance customer satisfaction and drive profitability.
