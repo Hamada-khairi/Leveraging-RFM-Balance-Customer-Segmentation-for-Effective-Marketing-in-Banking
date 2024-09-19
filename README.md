@@ -71,6 +71,7 @@ This project implements various clustering algorithms to segment bank customers 
 ![NO-0](https://github.com/user-attachments/assets/20334466-2ed9-493e-8feb-f2d644c96472)
 ![NO-6](https://github.com/user-attachments/assets/b29c96a2-708b-46f3-8e76-cac57582c170)
 
+---
 
 ### Clustering Results
 
