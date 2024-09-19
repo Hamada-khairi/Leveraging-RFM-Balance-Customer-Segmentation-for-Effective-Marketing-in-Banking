@@ -63,10 +63,26 @@ This project implements various clustering algorithms to segment bank customers 
 
 ## 📸 Screenshots
 ### Data Analysis Insights
-![EDA](url-to-screenshot.png)
+![NO-5](https://github.com/user-attachments/assets/c572f562-3466-4896-bd2f-78613a02d975)
+![NO-4](https://github.com/user-attachments/assets/49699d64-5450-4d12-acde-d9764ae10306)
+![NO-3](https://github.com/user-attachments/assets/3a6ffe76-263e-4dc2-99ac-45af76ffa274)
+![NO-2](https://github.com/user-attachments/assets/9917bfd6-3bb5-4414-bb4d-a4b26353a99f)
+![NO-1](https://github.com/user-attachments/assets/7a28de37-3422-4e1b-8ea4-98af410ed2b2)
+![NO-0](https://github.com/user-attachments/assets/20334466-2ed9-493e-8feb-f2d644c96472)
+![NO-6](https://github.com/user-attachments/assets/b29c96a2-708b-46f3-8e76-cac57582c170)
+
 
 ### Clustering Results
-![Clustering](url-to-clustering-results.png)
+
+![NO-13](https://github.com/user-attachments/assets/8486746e-293f-4fc2-ba50-494eb4f2d7b8)
+![NO-12](https://github.com/user-attachments/assets/2e10899b-d9b8-4356-add8-44b70c5a404a)
+![NO-11](https://github.com/user-attachments/assets/09a6cd17-0cd2-4d05-94f3-381f55bb8233)
+![NO-10](https://github.com/user-attachments/assets/ec5f45cd-bf84-4684-b4b9-29b02ea126ff)
+![NO-9](https://github.com/user-attachments/assets/595f52e1-2b75-4104-8ea7-86a9141923ca)
+![NO-8](https://github.com/user-attachments/assets/f8d239c4-7375-4bd8-b0b7-51f03f68835f)
+![NO-7](https://github.com/user-attachments/assets/91212df7-45d0-48d5-8f48-8fc0ade9641d)
+![NO-14](https://github.com/user-attachments/assets/b20c37e3-ee87-48fc-b36f-349fdeaf0fae)
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open a pull request or issue for improvements or new features.
